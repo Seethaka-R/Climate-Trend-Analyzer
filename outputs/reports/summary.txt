@@ -1,0 +1,23 @@
+
+=== CLIMATE TREND ANALYSIS SUMMARY ===
+Dataset period: 1993-01-01 to 2022-12-24
+Total records : 10,950
+
+--- Temperature Trend ---
+Linear slope  : 0.0286 °C/year
+Over 30 years : 0.86 °C total warming
+R² (fit)      : 0.932
+Mann-Kendall  : increasing trend (p=0.0000)
+
+--- Anomaly Detection ---
+Total flagged events: 175
+Report saved: outputs/reports/anomaly_report.csv
+
+--- Forecast ---
+ARIMA(2,1,2) 5-year forecast generated.
+Model saved: models/arima_model.pkl
+
+--- Outputs ---
+Plots: outputs/plots/
+Report: outputs/reports/anomaly_report.csv
+Summary: outputs/reports/summary.txt
