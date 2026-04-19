@@ -103,6 +103,13 @@ pytest tests/ -v
 | ![anomaly](outputs/plots/05_temperature_anomalies.png) | Anomaly detection |
 | ![forecast](outputs/plots/06_arima_forecast.png) | 5-year ARIMA forecast |
 
+## Dashboard output
+ ![](images/web1.png)
+ ![](images/web2.png)
+ ![](images/web3.png)
+ ![](images/web4.png)
+ ![](images/web5.png)
+ 
 ## 🔮 Future Improvements
 
 - Region-wise comparison across cities
