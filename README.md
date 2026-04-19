@@ -129,4 +129,4 @@ pytest tests/ -v
 ## 👤 Author
 
 **[Seethaka Rakshitha]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/seethaka-rakshitha/) | [GitHub](https://github.com/yourusername)
